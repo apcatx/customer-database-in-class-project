@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  margin: auto;
+  width: 80%;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+.container1 {
+  display:inline-flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: space-between;
+  margin-left: 0, auto;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+img {
+  display: flex;
+  height: 200px;
+}
