@@ -30,9 +30,7 @@ img {
 }
 
 #profile {
-  justify-content: center;
   margin: 30px 10px;
-  width: auto;
 }
 
 .email {
@@ -48,7 +46,6 @@ a {
 
 .info {
   text-transform: capitalize;
-  width: auto;
   color: grey;
   font-weight: lighter;
 }
